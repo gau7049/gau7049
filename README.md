@@ -6,7 +6,7 @@
 
 4th-year B.Tech student at Ahmedabad Institute of Technology College.
 
-## 💻 Proficient in JavaScript for Frontend Development
+## 💻 Learning JavaScript for Frontend Development
 
 Passionate about perfection and equipped with strong problem-solving skills.
 
@@ -21,4 +21,4 @@ Passionate about perfection in every task.
 
 ## 🔗 LinkedIn
 
-[LinkedIn](https://www.linkedin.com/in/gautampaliwal/)
+[Gautam Paliwal](https://www.linkedin.com/in/gautampaliwal/)
