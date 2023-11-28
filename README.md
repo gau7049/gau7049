@@ -19,6 +19,9 @@ Passionate about perfection and equipped with strong problem-solving skills.
 
 Passionate about perfection in every task.
 
-## 🔗 LinkedIn
+### 📧 Contact Me
 
-[Gautam Paliwal](https://www.linkedin.com/in/gautampaliwal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gautam%20Paliwal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gautampaliwal/) <br>
+[![Email](https://img.shields.io/badge/Email-gau7049%40gmail.com-orange?style=flat-square&logo=gmail)](mailto:gau7049@gmail.com)
+
+
