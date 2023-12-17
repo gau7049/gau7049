@@ -14,6 +14,9 @@ Passionate about perfection and equipped with strong problem-solving skills.
 
 - JavaScript, HTML, CSS
 - Problem-solving
+- Python
+- Core Java
+- MySQL
 
 ## 🌟 Work Ethic
 
