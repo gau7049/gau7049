@@ -12,8 +12,8 @@ Passionate about perfection and equipped with strong problem-solving skills.
 
 ## 👨‍💻 Skills
 
-- JavaScript, HTML, CSS
-- Problem-solving
+- JavaScript, React, HTML, CSS
+- Bootstrap, Problem-solving
 - MySQL
 - Python / Core Java
 
