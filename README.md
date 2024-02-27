@@ -2,8 +2,7 @@
   <img src="https://cdn.dribbble.com/users/6132523/screenshots/15260006/media/ef3c7e97aa664b60f13f99610815222e.jpg" width="300"/>
 <!--   <img src="https://komarev.com/ghpvc/?username=huzaifmalik786&style=flat-square&color=blue" alt=""/> -->
   <h1>
-  Hello, I'm Gautam Paliwal
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello, I'm Gautam Paliwal 👋
 </h1>
 </div>
 
@@ -11,7 +10,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Frontend Developer 🌟 from India.
 - :telescope: I’m working as a Reactjs Developer and contributing to frontend for building web pages.
 
 - :seedling: Good in Problem Solving.
@@ -20,7 +19,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 - :mailbox:How to reach me: **gau7049@gmail.com**
-<img align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="250"/>
+<img align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="320"/>
 
 ---
 
@@ -81,19 +80,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gau7049&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=issues"/> | <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gau7049&layout=compact&langs_count=16&theme=vision-friendly-dark"/> |
-| ------------- | ------------- |
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gau7049&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="gau7049" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gau7049&show_icons=true&locale=en&theme=highcontrast" alt="gau7049" /></p>
 
-  <picture>
-      <source
-        srcset="https://streak-stats.demolab.com/?user=gau7049&theme=highcontrast"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://streak-stats.demolab.com/?user=gau7049"
-        media="(prefers-color-scheme: light)"
-      />
-      <img src="https://streak-stats.demolab.com/?user=gau7049" />
-  </picture>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gau7049&theme=highcontrast&" alt="gau7049" /></p>
 
