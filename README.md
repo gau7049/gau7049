@@ -27,7 +27,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :zap: In my free time, I solve problems on LeetCode.
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gautampaliwal/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gautam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gautampaliwal/)
 <img align="right" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="250"/>
 
 ---
