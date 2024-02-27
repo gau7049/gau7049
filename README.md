@@ -1,13 +1,10 @@
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/kush-kaushik-130132185/">
+  <a href="https://www.linkedin.com/in/gautampaliwal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/kush.kaushik.52/
-    <img src="https://img.shields.io/badge/Instagram-600?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/huzaifmalik7860">
+  <a href="https://twitter.com/Gautam_Paliwal_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
