@@ -20,7 +20,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 - :mailbox:How to reach me: **gau7049@gmail.com**
-<img align="right" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width="250"/>
+<img align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="250"/>
 
 ---
 
