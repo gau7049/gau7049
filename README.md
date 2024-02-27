@@ -47,31 +47,31 @@ I am a Frontend Developer 🌟 from India.
     <img src="https://th.bing.com/th/id/OIP.DAd4ProxJ7RhaQ6iJZxoSAHaHT?rs=1&pid=ImgDetMain" title="Tailwind" **alt="Tailwind" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="python" width="40" height="40"/>
   </a>
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>  
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="sass" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" title="Bootstrap" **alt="bootstrap" width="40" height="40"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="vscode" width="40" height="40"/>    
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/>
   </a>
   
 </h3>
