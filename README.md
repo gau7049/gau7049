@@ -82,7 +82,7 @@ I am a Frontend Developer 🌟 from India.
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gau7049&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="gau7049" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gau7049&show_icons=true&locale=en&theme=highcontrast" alt="gau7049" /></p>
+<p>&nbsp; &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gau7049&show_icons=true&locale=en&theme=highcontrast" alt="gau7049" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gau7049&theme=highcontrast&" alt="gau7049" /></p>
 
