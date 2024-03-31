@@ -18,7 +18,7 @@ I am a Frontend Developer 🌟 from India.
 - :zap: In my free time, I solve problems on LeetCode.
 
 
-- :mailbox:How to reach me: **gau7049@gmail.com**
+- :mailbox:How to reach me: **gautampaliwal.ce@gmail.com**
 <img align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="320"/>
 
 ---
