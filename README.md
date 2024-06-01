@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer 🌟 from India.
+I am a Full Stack Developer 🌟 from India.
 - :telescope: I’m working as a Reactjs Developer and contributing to frontend for building web pages.
 
 - :seedling: Good in Problem Solving.
